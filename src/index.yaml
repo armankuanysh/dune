@@ -1,0 +1,5 @@
+ProjectTitle: dust-1
+
+PageList:
+- file: page.html
+  ready: 50
